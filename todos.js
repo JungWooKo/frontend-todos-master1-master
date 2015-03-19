@@ -5,7 +5,7 @@ function getDom(id)
 {
   return document.getElementById(id)
 }
-//123
+
 //var todoStringField = document.getElementById("todoString");
 var todoStringField = getDom('todoString');
 
